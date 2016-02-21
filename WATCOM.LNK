@@ -1,0 +1,21 @@
+file AppDefs.Obj
+file DBCS.Obj
+file DrawPage.Obj
+file FilePrn.Obj
+file FontDlg.Obj
+file Fonts.Obj
+file PageDlg.Obj
+file PrevDlg.Obj
+file Print.Obj
+file PrnAPI.Obj
+file PrnWnd.Obj
+file Support.Obj
+file ToolBar.Obj
+name Print.Exe
+option modname=Print
+format os2 lx pm
+segment class 'code'
+segment class 'data'
+option manyautodata
+option stack=16384
+option protmode

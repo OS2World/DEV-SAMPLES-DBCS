@@ -1,0 +1,15 @@
+Print.Obj
+AppDefs.Obj
+DBCS.Obj
+DrawPage.Obj
+FilePrn.Obj
+FontDlg.Obj
+Fonts.Obj 
+PageDlg.Obj
+PrevDlg.Obj
+PrnAPI.Obj
+PrnWnd.Obj
+Support.Obj
+ToolBar.Obj
+/OUT:Print.Exe
+Print.Def
